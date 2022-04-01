@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1335px" height="715px" viewBox="0 0 1335 715" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>le due viste 2d</title>
+    <g id="le-due-viste-2d" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#181818" x="0" y="0" width="1335" height="715"></rect>
+        <line x1="984.5" y1="92.5" x2="984.5" y2="302.5" id="Line-3-Copy-4" stroke="#979797" stroke-linecap="square"></line>
+        <line x1="985" y1="333" x2="984.738289" y2="461.500242" id="Line-3-Copy-5" stroke="#979797" stroke-linecap="square"></line>
+        <line x1="985" y1="493" x2="984.734215" y2="623.500238" id="Line-3-Copy-6" stroke="#979797" stroke-linecap="square"></line>
+        <text id="mk-223-L-150-W-180-Copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.3" fill="#FFFFFF">
+            <tspan x="894.8825" y="195">mk-223</tspan>
+            <tspan x="877.46" y="212">L 150 W 180</tspan>
+        </text>
+        <text id="mk-224-L-100-W-180-Copy-2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="15" font-weight="bold" letter-spacing="0.3" fill="#FFFFFF">
+            <tspan x="893.9375" y="396">mk-224</tspan>
+            <tspan x="877.0475" y="414">L 100 W 180</tspan>
+        </text>
+        <text id="mk-2bvbg3-L-100-W-18-Copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.3" fill="#FFFFFF">
+            <tspan x="882.6525" y="554">mk-2bvbg3 </tspan>
+            <tspan x="878.46" y="571">L 100 W 180</tspan>
+        </text>
+        <rect id="Rectangle-1080-Copy-30" fill="#444444" transform="translate(1108.000000, 399.000000) rotate(90.000000) translate(-1108.000000, -399.000000) " x="1031" y="287" width="154" height="224"></rect>
+        <rect id="Rectangle-1080-Copy-22" fill="#444444" transform="translate(1108.000000, 198.000000) rotate(90.000000) translate(-1108.000000, -198.000000) " x="988" y="86" width="240" height="224"></rect>
+        <rect id="Rectangle-1080-Copy-31" fill="#444444" transform="translate(1108.000000, 557.000000) rotate(90.000000) translate(-1108.000000, -557.000000) " x="1031" y="445" width="154" height="224"></rect>
+        <text id="150-copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="962" y="324">150</tspan>
+        </text>
+        <text id="250-copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="962" y="482">250</tspan>
+        </text>
+        <text id="0-copy" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="980" y="83">0</tspan>
+        </text>
+        <text id="cm-copy" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="16" font-weight="400" fill="#A0A0A0">
+            <tspan x="951" y="83">cm</tspan>
+        </text>
+        <text id="350-copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="962" y="644">350</tspan>
+        </text>
+        <g id="Group" transform="translate(1234.000000, 78.000000)" font-size="17">
+            <text id="/10" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400" fill="#A0A0A0">
+                <tspan x="11.5" y="17">/10</tspan>
+            </text>
+            <text id="5" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#FFFFFF">
+                <tspan x="0" y="17">5</tspan>
+            </text>
+        </g>
+        <g id="Group-Copy" transform="translate(1234.000000, 477.000000)" font-size="17">
+            <text id="/10" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400" fill="#A0A0A0">
+                <tspan x="11.5" y="17">/10</tspan>
+            </text>
+            <text id="8" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#FFFFFF">
+                <tspan x="0" y="17">8</tspan>
+            </text>
+        </g>
+        <text id="5/5" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="17" font-weight="bold" fill="#FFFFFF">
+            <tspan x="1234" y="343">5/5</tspan>
+        </text>
+        <g id="Group-2" transform="translate(140.000000, 377.000000)">
+            <rect id="Rectangle-1080-Copy-22" fill="#444444" x="0" y="0" width="240" height="87"></rect>
+            <rect id="Rectangle-1080-Copy-21" fill-opacity="0.5" fill="#FFAFD2" x="0" y="43" width="240" height="44"></rect>
+        </g>
+        <rect id="Rectangle-1080-Copy-24" fill="#444444" x="542" y="328" width="154" height="136"></rect>
+        <line x1="128" y1="307" x2="128.521605" y2="475.999967" id="Line-3-Copy-3" stroke="#979797" stroke-linecap="square"></line>
+        <rect id="Rectangle-1080-Copy-25" fill="#FFAFD2" x="384" y="420" width="154" height="44"></rect>
+        <text id="5/5" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="17" font-weight="bold" fill="#FFFFFF">
+            <tspan x="512" y="414">5/5</tspan>
+        </text>
+        <g id="Group" transform="translate(342.000000, 354.000000)" font-size="17">
+            <text id="/10" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400" fill="#A0A0A0">
+                <tspan x="11.5" y="17">/10</tspan>
+            </text>
+            <text id="5" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#FFFFFF">
+                <tspan x="0" y="17">5</tspan>
+            </text>
+        </g>
+        <g id="Group-Copy-3" transform="translate(658.000000, 306.000000)" font-size="17">
+            <text id="/18" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400" fill="#A0A0A0">
+                <tspan x="11.5" y="17">/18</tspan>
+            </text>
+            <text id="9" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#FFFFFF">
+                <tspan x="0" y="17">9</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle-1080-Copy-28" fill-opacity="0.495656687" fill="#FFAFD2" x="542" y="399" width="154" height="65"></rect>
+        <text id="mk-223-L-150-W-180" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.3" fill="#FFFFFF">
+            <tspan x="233.8825" y="267">mk-223</tspan>
+            <tspan x="216.46" y="284">L 150 W 180</tspan>
+        </text>
+        <text id="38-m" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" fill="#FFFFFF">
+            <tspan x="84.1775" y="392">38 m</tspan>
+        </text>
+        <text id="mk-224-L-100-W-180" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.3" fill="#FFFFFF">
+            <tspan x="434.8825" y="266.5">mk-224</tspan>
+            <tspan x="417.46" y="283.5">L 100 W 180</tspan>
+        </text>
+        <text id="150-copy" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="365" y="278">150</tspan>
+        </text>
+        <text id="0" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="136" y="278">0</tspan>
+        </text>
+        <text id="250-copy" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="526" y="278">250</tspan>
+        </text>
+        <text id="350-copy" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="683" y="278">350</tspan>
+        </text>
+        <line x1="380.5" y1="286.5" x2="380.5" y2="298.5" id="Line-5-Copy-17" stroke="#979797" stroke-linecap="square"></line>
+        <line x1="540.5" y1="286.5" x2="540.5" y2="298.5" id="Line-5-Copy-16" stroke="#979797" stroke-linecap="square"></line>
+        <line x1="698.5" y1="286.5" x2="698.5" y2="298.5" id="Line-5-Copy-15" stroke="#979797" stroke-linecap="square"></line>
+        <text id="mk-2bvbg3-L-100-W-18" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.3" fill="#FFFFFF">
+            <tspan x="579.6525" y="266.5">mk-2bvbg3 </tspan>
+            <tspan x="575.46" y="283.5">L 100 W 180</tspan>
+        </text>
+        <text id="cm" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="16" font-weight="400" fill="#A0A0A0">
+            <tspan x="107" y="278">cm</tspan>
+        </text>
+        <text id="fabric-need" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="16" font-weight="400" fill="#A0A0A0">
+            <tspan x="75.904" y="315">fabric</tspan>
+            <tspan x="81.248" y="334">need</tspan>
+        </text>
+        <line x1="157.5" y1="297.5" x2="363.5" y2="297.5" id="Line-6" stroke="#979797" stroke-linecap="square"></line>
+        <line x1="395.5" y1="297" x2="527.5" y2="297" id="Line-6-Copy" stroke="#979797" stroke-linecap="square"></line>
+        <line x1="553.5" y1="297" x2="685.5" y2="297" id="Line-6-Copy-2" stroke="#979797" stroke-linecap="square"></line>
+    </g>
+</svg>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1121px" height="715px" viewBox="0 0 1121 715" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2D</title>
+    <g id="2D" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#181818" x="0" y="0" width="1121" height="715"></rect>
+        <line x1="178.5" y1="92.5" x2="178.5" y2="302.5" id="Line-3-Copy-4" stroke="#979797" stroke-linecap="square"></line>
+        <line x1="179" y1="333" x2="178.738289" y2="461.500242" id="Line-3-Copy-5" stroke="#979797" stroke-linecap="square"></line>
+        <line x1="179" y1="493" x2="178.734215" y2="623.500238" id="Line-3-Copy-6" stroke="#979797" stroke-linecap="square"></line>
+        <text id="mk-223-L-150-W-180-Copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.3" fill="#FFFFFF">
+            <tspan x="88.8825" y="195">mk-223</tspan>
+            <tspan x="71.46" y="212">L 150 W 180</tspan>
+        </text>
+        <text id="mk-224-L-100-W-180-Copy-2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="15" font-weight="bold" letter-spacing="0.3" fill="#FFFFFF">
+            <tspan x="87.9375" y="396">mk-224</tspan>
+            <tspan x="71.0475" y="414">L 100 W 180</tspan>
+        </text>
+        <text id="mk-2bvbg3-L-100-W-18-Copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.3" fill="#FFFFFF">
+            <tspan x="75.6525" y="554">mk-2bvbg3 </tspan>
+            <tspan x="71.46" y="571">L 100 W 180</tspan>
+        </text>
+        <rect id="Rectangle-1080-Copy-30" fill="#444444" transform="translate(302.000000, 399.000000) rotate(90.000000) translate(-302.000000, -399.000000) " x="225" y="287" width="154" height="224"></rect>
+        <rect id="Rectangle-1080-Copy-22" fill="#444444" transform="translate(302.000000, 198.000000) rotate(90.000000) translate(-302.000000, -198.000000) " x="182" y="86" width="240" height="224"></rect>
+        <rect id="Rectangle-1080-Copy-31" fill="#444444" transform="translate(302.000000, 557.000000) rotate(90.000000) translate(-302.000000, -557.000000) " x="225" y="445" width="154" height="224"></rect>
+        <text id="150-copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="156" y="324">150</tspan>
+        </text>
+        <text id="89" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" fill="#0079FF">
+            <tspan x="152" y="157">89</tspan>
+        </text>
+        <text id="250-copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="156" y="482">250</tspan>
+        </text>
+        <text id="0-copy" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="174" y="83">0</tspan>
+        </text>
+        <text id="cm-copy" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="16" font-weight="400" fill="#A0A0A0">
+            <tspan x="145" y="83">cm</tspan>
+        </text>
+        <text id="350-copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="156" y="644">350</tspan>
+        </text>
+        <line x1="181" y1="152" x2="480.390244" y2="151.390244" id="centro" stroke="#0079FF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="4"></line>
+        <line x1="181.610169" y1="151.390244" x2="477.610169" y2="151.390244" id="bordo" stroke="#0079FF" stroke-width="7" opacity="0.4" stroke-linecap="square"></line>
+        <g id="Group" transform="translate(428.000000, 78.000000)" font-size="17">
+            <text id="/10" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400" fill="#A0A0A0">
+                <tspan x="11.5" y="17">/10</tspan>
+            </text>
+            <text id="4" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#FFFFFF">
+                <tspan x="0" y="17">4</tspan>
+            </text>
+        </g>
+        <g id="Group-Copy" transform="translate(428.000000, 477.000000)" font-size="17">
+            <text id="/10" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400" fill="#A0A0A0">
+                <tspan x="11.5" y="17">/10</tspan>
+            </text>
+            <text id="8" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#FFFFFF">
+                <tspan x="0" y="17">8</tspan>
+            </text>
+        </g>
+        <text id="10/10" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="17" font-weight="bold" fill="#FFFFFF">
+            <tspan x="428" y="343">10/10</tspan>
+        </text>
+        <g id="Group-Copy-3" transform="translate(958.000000, 78.000000)" font-size="17">
+            <text id="/10" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400" fill="#A0A0A0">
+                <tspan x="11.5" y="17">/10</tspan>
+            </text>
+            <text id="4" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#FFFFFF">
+                <tspan x="0" y="17">4</tspan>
+            </text>
+        </g>
+        <g id="Group-Copy-2" transform="translate(958.000000, 477.000000)" font-size="17">
+            <text id="/10" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400" fill="#A0A0A0">
+                <tspan x="11.5" y="17">/10</tspan>
+            </text>
+            <text id="8" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#FFFFFF">
+                <tspan x="0" y="17">8</tspan>
+            </text>
+        </g>
+        <text id="10/10-copy" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="17" font-weight="bold" fill="#FFFFFF">
+            <tspan x="958" y="343">10/10</tspan>
+        </text>
+        <line x1="708.5" y1="91" x2="708.5" y2="301" id="Line-3-Copy-4" stroke="#979797" stroke-linecap="square"></line>
+        <line x1="709" y1="331.5" x2="708.738289" y2="460.000242" id="Line-3-Copy-5" stroke="#979797" stroke-linecap="square"></line>
+        <line x1="709" y1="491.5" x2="708.734215" y2="622.000238" id="Line-3-Copy-6" stroke="#979797" stroke-linecap="square"></line>
+        <text id="mk-223-L-150-W-180-Copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.3" fill="#FFFFFF">
+            <tspan x="618.8825" y="193.5">mk-223</tspan>
+            <tspan x="601.46" y="210.5">L 150 W 180</tspan>
+        </text>
+        <text id="mk-224-L-100-W-180-Copy-2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="15" font-weight="bold" letter-spacing="0.3" fill="#FFFFFF">
+            <tspan x="617.9375" y="394.5">mk-224</tspan>
+            <tspan x="601.0475" y="412.5">L 100 W 180</tspan>
+        </text>
+        <text id="mk-2bvbg3-L-100-W-18-Copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.3" fill="#FFFFFF">
+            <tspan x="605.6525" y="552.5">mk-2bvbg3 </tspan>
+            <tspan x="601.46" y="569.5">L 100 W 180</tspan>
+        </text>
+        <rect id="Rectangle-1080-Copy-30" fill="#444444" transform="translate(832.000000, 397.500000) rotate(90.000000) translate(-832.000000, -397.500000) " x="755" y="285.5" width="154" height="224"></rect>
+        <rect id="Rectangle-1080-Copy-22" fill="#444444" transform="translate(832.000000, 196.500000) rotate(90.000000) translate(-832.000000, -196.500000) " x="712" y="84.5" width="240" height="224"></rect>
+        <rect id="Rectangle-1080-Copy-31" fill="#444444" transform="translate(832.000000, 555.500000) rotate(90.000000) translate(-832.000000, -555.500000) " x="755" y="443.5" width="154" height="224"></rect>
+        <text id="150-copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="686" y="322.5">150</tspan>
+        </text>
+        <text id="89" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" fill="#0079FF">
+            <tspan x="682" y="155.5">89</tspan>
+        </text>
+        <text id="250-copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="686" y="480.5">250</tspan>
+        </text>
+        <text id="0-copy" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="704" y="81.5">0</tspan>
+        </text>
+        <text id="cm-copy" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="16" font-weight="400" fill="#A0A0A0">
+            <tspan x="675" y="81.5">cm</tspan>
+        </text>
+        <text id="350-copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#FFFFFF">
+            <tspan x="686" y="642.5">350</tspan>
+        </text>
+        <line x1="711" y1="150.5" x2="1010.39024" y2="149.890244" id="centro" stroke="#0079FF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="4"></line>
+        <line x1="711.610169" y1="149.890244" x2="1007.61017" y2="149.890244" id="bordo" stroke="#0079FF" stroke-width="7" opacity="0.4" stroke-linecap="square"></line>
+        <rect id="Rectangle" stroke="#FFFFFF" x="726" y="323.5" width="74" height="18"></rect>
+        <rect id="Rectangle-Copy" stroke="#FFFFFF" x="726" y="347.5" width="74" height="18"></rect>
+        <rect id="Rectangle-Copy-2" stroke="#FFFFFF" x="726" y="372.5" width="74" height="18"></rect>
+        <rect id="Rectangle-Copy-14" stroke="#FFFFFF" x="726" y="449.5" width="75" height="18"></rect>
+        <rect id="Rectangle-Copy-9" stroke="#FFFFFF" x="727" y="397.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-8" stroke="#FFFFFF" x="740" y="397.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-11" stroke="#FFFFFF" x="753" y="397.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-10" stroke="#FFFFFF" x="766" y="397.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-13" stroke="#FFFFFF" x="780" y="397.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-12" stroke="#FFFFFF" x="793" y="397.5" width="8" height="45"></rect>
+        <circle id="Oval" stroke="#FFFFFF" cx="850.5" cy="378" r="17.5"></circle>
+        <circle id="Oval-Copy-6" stroke="#FFFFFF" cx="870.5" cy="341" r="17.5"></circle>
+        <circle id="Oval-Copy-7" stroke="#FFFFFF" cx="910.5" cy="341" r="17.5"></circle>
+        <circle id="Oval-Copy" stroke="#FFFFFF" cx="890.5" cy="378" r="17.5"></circle>
+        <circle id="Oval-Copy-4" stroke="#FFFFFF" cx="870.5" cy="413" r="17.5"></circle>
+        <circle id="Oval-Copy-5" stroke="#FFFFFF" cx="870.5" cy="452" r="17.5"></circle>
+        <rect id="Rectangle" stroke="#FFFFFF" x="807" y="372.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-17" stroke="#FFFFFF" x="807" y="323.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-18" stroke="#FFFFFF" x="820" y="323.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-19" stroke="#FFFFFF" x="831" y="323.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-20" stroke="#FFFFFF" x="842" y="323.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-3" stroke="#FFFFFF" x="820" y="372.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-16" stroke="#FFFFFF" x="807" y="422.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-15" stroke="#FFFFFF" x="820" y="422.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-4" stroke="#FFFFFF" x="842" y="399.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-5" stroke="#FFFFFF" x="831" y="399.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-27" stroke="#FFFFFF" x="910" y="361.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-26" stroke="#FFFFFF" x="921" y="361.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-28" stroke="#FFFFFF" x="931" y="361.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-29" stroke="#FFFFFF" x="931" y="323.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-6" stroke="#FFFFFF" x="890" y="399.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-24" stroke="#FFFFFF" x="890" y="448.5" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-25" stroke="#FFFFFF" x="890" y="460.5" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-7" stroke="#FFFFFF" x="901" y="399.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-21" stroke="#FFFFFF" x="912" y="399.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-22" stroke="#FFFFFF" x="923" y="399.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-23" stroke="#FFFFFF" x="931" y="399.5" width="8" height="45"></rect>
+        <g id="Group-6" transform="translate(726.000000, 483.500000)" stroke="#979797">
+            <g id="Group-2">
+                <rect id="Rectangle" x="0" y="0" width="74" height="18"></rect>
+                <rect id="Rectangle-Copy" x="0" y="24" width="74" height="18"></rect>
+                <rect id="Rectangle-Copy-2" x="0" y="49" width="74" height="18"></rect>
+            </g>
+            <rect id="Rectangle-Copy-14" x="0" y="126" width="75" height="18"></rect>
+            <g id="Group-5" transform="translate(1.000000, 74.000000)">
+                <rect id="Rectangle-Copy-9" x="0" y="0" width="8" height="45"></rect>
+                <rect id="Rectangle-Copy-8" x="13" y="0" width="8" height="45"></rect>
+                <rect id="Rectangle-Copy-11" x="26" y="0" width="8" height="45"></rect>
+                <rect id="Rectangle-Copy-10" x="39" y="0" width="8" height="45"></rect>
+                <rect id="Rectangle-Copy-13" x="53" y="0" width="8" height="45"></rect>
+                <rect id="Rectangle-Copy-12" x="66" y="0" width="8" height="45"></rect>
+            </g>
+        </g>
+        <g id="Group-7" transform="translate(807.000000, 483.500000)" stroke="#979797">
+            <rect id="Rectangle" x="0" y="49" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-17" x="0" y="0" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-18" x="13" y="0" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-19" x="24" y="0" width="8" height="35"></rect>
+            <rect id="Rectangle-Copy-20" x="35" y="0" width="8" height="35"></rect>
+            <rect id="Rectangle-Copy-3" x="13" y="49" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-16" x="0" y="99" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-15" x="13" y="99" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-4" x="35" y="76" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-5" x="24" y="76" width="8" height="45"></rect>
+        </g>
+        <rect id="Rectangle-Copy-27" stroke="#979797" x="910" y="521.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-26" stroke="#979797" x="921" y="521.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-28" stroke="#979797" x="931" y="521.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-29" stroke="#979797" x="931" y="483.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-57" stroke="#979797" x="921" y="483.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-58" stroke="#979797" x="910" y="483.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-59" stroke="#979797" x="899" y="521.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-60" stroke="#979797" x="888" y="521.5" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-6" stroke="#979797" x="890" y="559.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-46" stroke="#979797" x="854" y="559.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-47" stroke="#979797" x="866" y="559.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-48" stroke="#979797" x="878" y="559.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-24" stroke="#979797" x="890" y="608.5" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-25" stroke="#979797" x="890" y="620.5" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-50" stroke="#979797" x="833" y="608.5" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-49" stroke="#979797" x="833" y="620.5" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-52" stroke="#979797" x="831" y="521.5" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-51" stroke="#979797" x="831" y="533.5" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-54" stroke="#979797" x="853" y="483.5" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-53" stroke="#979797" x="853" y="495.5" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-55" stroke="#979797" x="853" y="507.5" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-56" stroke="#979797" x="831" y="545.5" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-7" stroke="#979797" x="901" y="559.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-21" stroke="#979797" x="912" y="559.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-22" stroke="#979797" x="923" y="559.5" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-23" stroke="#979797" x="931" y="559.5" width="8" height="45"></rect>
+        <g id="Group-6" transform="translate(799.000000, 119.000000) rotate(90.000000) translate(-799.000000, -119.000000) translate(761.500000, 47.000000)" stroke="#979797">
+            <g id="Group-2">
+                <rect id="Rectangle" x="0" y="0" width="74" height="18"></rect>
+                <rect id="Rectangle-Copy" x="0" y="24" width="74" height="18"></rect>
+                <rect id="Rectangle-Copy-2" x="0" y="49" width="74" height="18"></rect>
+            </g>
+            <rect id="Rectangle-Copy-14" x="0" y="126" width="75" height="18"></rect>
+            <g id="Group-5" transform="translate(1.000000, 74.000000)">
+                <rect id="Rectangle-Copy-9" x="0" y="0" width="8" height="45"></rect>
+                <rect id="Rectangle-Copy-8" x="13" y="0" width="8" height="45"></rect>
+                <rect id="Rectangle-Copy-11" x="26" y="0" width="8" height="45"></rect>
+                <rect id="Rectangle-Copy-10" x="39" y="0" width="8" height="45"></rect>
+                <rect id="Rectangle-Copy-13" x="53" y="0" width="8" height="45"></rect>
+                <rect id="Rectangle-Copy-12" x="66" y="0" width="8" height="45"></rect>
+            </g>
+        </g>
+        <circle id="Oval" stroke="#979797" transform="translate(816.500000, 206.000000) rotate(90.000000) translate(-816.500000, -206.000000) " cx="816.5" cy="206" r="17.5"></circle>
+        <circle id="Oval-Copy-6" stroke="#979797" transform="translate(853.500000, 226.000000) rotate(90.000000) translate(-853.500000, -226.000000) " cx="853.5" cy="226" r="17.5"></circle>
+        <circle id="Oval-Copy-7" stroke="#979797" transform="translate(853.500000, 266.000000) rotate(90.000000) translate(-853.500000, -266.000000) " cx="853.5" cy="266" r="17.5"></circle>
+        <circle id="Oval-Copy-8" stroke="#979797" transform="translate(891.500000, 276.000000) rotate(90.000000) translate(-891.500000, -276.000000) " cx="891.5" cy="276" r="17.5"></circle>
+        <circle id="Oval-Copy-9" stroke="#979797" transform="translate(890.500000, 237.000000) rotate(90.000000) translate(-890.500000, -237.000000) " cx="890.5" cy="237" r="17.5"></circle>
+        <circle id="Oval-Copy-10" stroke="#979797" transform="translate(892.500000, 198.000000) rotate(90.000000) translate(-892.500000, -198.000000) " cx="892.5" cy="198" r="17.5"></circle>
+        <circle id="Oval-Copy-11" stroke="#979797" transform="translate(892.500000, 159.000000) rotate(90.000000) translate(-892.500000, -159.000000) " cx="892.5" cy="159" r="17.5"></circle>
+        <circle id="Oval-Copy-12" stroke="#979797" transform="translate(923.500000, 219.000000) rotate(90.000000) translate(-923.500000, -219.000000) " cx="923.5" cy="219" r="17.5"></circle>
+        <circle id="Oval-Copy-17" stroke="#979797" transform="translate(924.500000, 257.000000) rotate(90.000000) translate(-924.500000, -257.000000) " cx="924.5" cy="257" r="17.5"></circle>
+        <circle id="Oval-Copy-13" stroke="#979797" transform="translate(924.500000, 179.000000) rotate(90.000000) translate(-924.500000, -179.000000) " cx="924.5" cy="179" r="17.5"></circle>
+        <circle id="Oval-Copy-14" stroke="#979797" transform="translate(924.500000, 139.000000) rotate(90.000000) translate(-924.500000, -139.000000) " cx="924.5" cy="139" r="17.5"></circle>
+        <circle id="Oval-Copy-15" stroke="#979797" transform="translate(891.500000, 121.000000) rotate(90.000000) translate(-891.500000, -121.000000) " cx="891.5" cy="121" r="17.5"></circle>
+        <circle id="Oval-Copy-16" stroke="#979797" transform="translate(924.500000, 101.000000) rotate(90.000000) translate(-924.500000, -101.000000) " cx="924.5" cy="101" r="17.5"></circle>
+        <circle id="Oval-Copy" stroke="#979797" transform="translate(816.500000, 246.000000) rotate(90.000000) translate(-816.500000, -246.000000) " cx="816.5" cy="246" r="17.5"></circle>
+        <circle id="Oval-Copy-4" stroke="#979797" transform="translate(781.500000, 226.000000) rotate(90.000000) translate(-781.500000, -226.000000) " cx="781.5" cy="226" r="17.5"></circle>
+        <circle id="Oval-Copy-5" stroke="#979797" transform="translate(742.500000, 226.000000) rotate(90.000000) translate(-742.500000, -226.000000) " cx="742.5" cy="226" r="17.5"></circle>
+        <g id="Group-7" transform="translate(799.000000, 184.000000) rotate(90.000000) translate(-799.000000, -184.000000) translate(777.500000, 112.000000)" stroke="#979797">
+            <rect id="Rectangle" x="0" y="49" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-17" x="0" y="0" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-18" x="13" y="0" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-19" x="24" y="0" width="8" height="35"></rect>
+            <rect id="Rectangle-Copy-20" x="35" y="0" width="8" height="35"></rect>
+            <rect id="Rectangle-Copy-3" x="13" y="49" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-16" x="0" y="99" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-15" x="13" y="99" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-4" x="35" y="76" width="8" height="45"></rect>
+            <rect id="Rectangle-Copy-5" x="24" y="76" width="8" height="45"></rect>
+        </g>
+        <rect id="Rectangle-Copy-27" stroke="#979797" transform="translate(815.500000, 269.500000) rotate(90.000000) translate(-815.500000, -269.500000) " x="811.5" y="252" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-26" stroke="#979797" transform="translate(815.500000, 280.500000) rotate(90.000000) translate(-815.500000, -280.500000) " x="811.5" y="263" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-28" stroke="#979797" transform="translate(815.500000, 290.500000) rotate(90.000000) translate(-815.500000, -290.500000) " x="811.5" y="273" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-29" stroke="#979797" transform="translate(853.500000, 290.500000) rotate(90.000000) translate(-853.500000, -290.500000) " x="849.5" y="273" width="8" height="35"></rect>
+        <rect id="Rectangle-Copy-38" stroke="#979797" transform="translate(924.500000, 290.000000) rotate(90.000000) translate(-924.500000, -290.000000) " x="920.5" y="274" width="8" height="32"></rect>
+        <rect id="Rectangle-Copy-40" stroke="#979797" transform="translate(889.500000, 97.000000) rotate(90.000000) translate(-889.500000, -97.000000) " x="885.5" y="81" width="8" height="32"></rect>
+        <rect id="Rectangle-Copy-41" stroke="#979797" transform="translate(889.500000, 86.000000) rotate(90.000000) translate(-889.500000, -86.000000) " x="885.5" y="70" width="8" height="32"></rect>
+        <rect id="Rectangle-Copy-39" stroke="#979797" transform="translate(926.500000, 282.000000) rotate(90.000000) translate(-926.500000, -282.000000) " x="922.5" y="268" width="8" height="28"></rect>
+        <rect id="Rectangle-Copy-42" stroke="#979797" transform="translate(734.500000, 192.500000) rotate(90.000000) translate(-734.500000, -192.500000) " x="730.5" y="180" width="8" height="25"></rect>
+        <rect id="Rectangle-Copy-43" stroke="#979797" transform="translate(734.500000, 202.500000) rotate(90.000000) translate(-734.500000, -202.500000) " x="730.5" y="190" width="8" height="25"></rect>
+        <rect id="Rectangle-Copy-44" stroke="#979797" transform="translate(734.500000, 303.500000) rotate(90.000000) translate(-734.500000, -303.500000) " x="731.5" y="292" width="6" height="23"></rect>
+        <rect id="Rectangle-Copy-45" stroke="#979797" transform="translate(734.500000, 309.500000) rotate(90.000000) translate(-734.500000, -309.500000) " x="731.5" y="298" width="6" height="23"></rect>
+        <rect id="Rectangle-Copy-6" stroke="#979797" transform="translate(772.500000, 249.500000) rotate(90.000000) translate(-772.500000, -249.500000) " x="768.5" y="227" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-24" stroke="#979797" transform="translate(741.500000, 271.500000) rotate(90.000000) translate(-741.500000, -271.500000) " x="715.5" y="267" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-25" stroke="#979797" transform="translate(729.500000, 271.500000) rotate(90.000000) translate(-729.500000, -271.500000) " x="703.5" y="267" width="52" height="9"></rect>
+        <rect id="Rectangle-Copy-7" stroke="#979797" transform="translate(772.500000, 260.500000) rotate(90.000000) translate(-772.500000, -260.500000) " x="768.5" y="238" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-21" stroke="#979797" transform="translate(772.500000, 271.500000) rotate(90.000000) translate(-772.500000, -271.500000) " x="768.5" y="249" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-22" stroke="#979797" transform="translate(772.500000, 282.500000) rotate(90.000000) translate(-772.500000, -282.500000) " x="768.5" y="260" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-23" stroke="#979797" transform="translate(772.500000, 290.500000) rotate(90.000000) translate(-772.500000, -290.500000) " x="768.5" y="268" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-30" stroke="#979797" transform="translate(772.500000, 301.500000) rotate(90.000000) translate(-772.500000, -301.500000) " x="768.5" y="279" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-31" stroke="#979797" transform="translate(772.500000, 309.500000) rotate(90.000000) translate(-772.500000, -309.500000) " x="768.5" y="287" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-33" stroke="#979797" transform="translate(820.500000, 301.500000) rotate(90.000000) translate(-820.500000, -301.500000) " x="816.5" y="279" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-32" stroke="#979797" transform="translate(820.500000, 309.500000) rotate(90.000000) translate(-820.500000, -309.500000) " x="816.5" y="287" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-35" stroke="#979797" transform="translate(868.500000, 301.500000) rotate(90.000000) translate(-868.500000, -301.500000) " x="864.5" y="279" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-34" stroke="#979797" transform="translate(868.500000, 309.500000) rotate(90.000000) translate(-868.500000, -309.500000) " x="864.5" y="287" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-37" stroke="#979797" transform="translate(916.500000, 301.500000) rotate(90.000000) translate(-916.500000, -301.500000) " x="912.5" y="279" width="8" height="45"></rect>
+        <rect id="Rectangle-Copy-36" stroke="#979797" transform="translate(916.500000, 309.500000) rotate(90.000000) translate(-916.500000, -309.500000) " x="912.5" y="287" width="8" height="45"></rect>
+    </g>
+</svg>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="940px" height="1236px" viewBox="0 0 940 1236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>v1.0.1</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="40" height="35.7894737"></rect>
+    </defs>
+    <g id="v1.0.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#181818" x="0" y="0" width="940" height="1236"></rect>
+        <rect id="bg" stroke="#7E7E7E" x="18.5" y="234.5" width="903" height="983" rx="5"></rect>
+        <rect id="Rectangle-1080-Copy-8" fill="#222222" x="-10" y="0" width="957" height="38"></rect>
+        <rect id="Rectangle-622-Copy-36" fill="#0079FF" x="193" y="228" width="150" height="5.88999987"></rect>
+        <text id="ACTIVE" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="22" font-weight="400" letter-spacing="0.55" fill="#A0A0A0">
+            <tspan x="51" y="221">ACTIVE</tspan>
+        </text>
+        <text id="EXCLUSION" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="22" font-weight="400" letter-spacing="0.55" fill="#A0A0A0">
+            <tspan x="392" y="221">EXCLUSION</tspan>
+        </text>
+        <text id="HISTORICAL" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="22" font-weight="400" letter-spacing="0.55" fill="#FFFFFF">
+            <tspan x="200" y="221">HISTORICAL</tspan>
+        </text>
+        <text id="Morgan---Spreader-So" font-family="HelveticaNeue, Helvetica Neue" font-size="17" font-weight="normal" fill="#A0A0A0">
+            <tspan x="15" y="24">Morgan - Spreader Software</tspan>
+        </text>
+        <path d="M919.00318,57 C920.107715,57 921.107796,57.4461724 921.831287,58.1698212 C922.55374,58.8924309 923,59.8914907 923,60.9979064 L923,60.9979064 L923,129.002094 C923,130.105208 922.551297,131.103776 921.828194,131.827036 C921.10401,132.551378 920.104365,133 919.00318,133 L919.00318,133 L810,133 L810,57 Z" id="bg-copy-8" stroke="#7E7E7E" stroke-width="2"></path>
+        <rect id="bg-copy-7" stroke="#7E7E7E" stroke-width="2" x="697" y="57" width="113" height="76"></rect>
+        <rect id="bg-copy-6" stroke="#7E7E7E" stroke-width="2" x="584" y="57" width="113" height="76"></rect>
+        <rect id="bg-copy-5" stroke="#7E7E7E" stroke-width="2" x="471" y="57" width="113" height="76"></rect>
+        <rect id="bg-copy-4" stroke="#7E7E7E" stroke-width="2" x="358" y="57" width="113" height="76"></rect>
+        <rect id="bg-copy-3" stroke="#7E7E7E" stroke-width="2" x="245" y="57" width="113" height="76"></rect>
+        <rect id="bg-copy-2" stroke="#7E7E7E" stroke-width="2" x="132" y="57" width="113" height="76"></rect>
+        <path d="M132,57 L132,133 L22.9968199,133 C21.8922851,133 20.8922043,132.553828 20.1687128,131.830179 C19.4462602,131.107569 19,130.108509 19,129.002094 L19,129.002094 L19,60.9979064 C19,59.8947917 19.448703,58.896224 20.1718057,58.1729641 C20.8959904,57.4486219 21.895635,57 22.9968199,57 L22.9968199,57 L132,57 Z" id="bg-copy" stroke="#7E7E7E" stroke-width="2"></path>
+        <g id="Group-4" transform="translate(301.500000, 95.060976) rotate(-17.000000) translate(-301.500000, -95.060976) translate(286.000000, 72.000000)">
+            <g id="Group-3">
+                <circle id="Oval-Copy-2" fill="#DDDDDD" cx="7.93902439" cy="7.93902439" r="7.93902439"></circle>
+                <circle id="Oval-Copy-3" fill="#181818" cx="7.93902439" cy="7.93902439" r="2.64634146"></circle>
+            </g>
+            <g id="Group-3-Copy" transform="translate(7.560976, 15.121951)">
+                <circle id="Oval-Copy-2" fill="#DDDDDD" cx="7.93902439" cy="7.93902439" r="7.93902439"></circle>
+                <circle id="Oval-Copy-3" fill="#181818" cx="7.93902439" cy="7.93902439" r="2.64634146"></circle>
+            </g>
+            <g id="Group-3-Copy-2" transform="translate(15.121951, 30.243902)">
+                <circle id="Oval-Copy-2" fill="#DDDDDD" cx="7.93902439" cy="7.93902439" r="7.93902439"></circle>
+                <circle id="Oval-Copy-3" fill="#181818" cx="7.93902439" cy="7.93902439" r="2.64634146"></circle>
+            </g>
+        </g>
+        <g id="settings_black_24dp" transform="translate(508.000000, 75.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M35,20 C35,19.54 34.98,19.1 34.94,18.64 L38.66,15.82 C39.46,15.22 39.68,14.1 39.18,13.22 L35.44,6.76 C34.94,5.88 33.86,5.52 32.94,5.92 L28.64,7.74 C27.9,7.22 27.12,6.76 26.3,6.38 L25.72,1.76 C25.6,0.76 24.74,0 23.74,0 L16.28,0 C15.26,0 14.4,0.76 14.28,1.76 L13.7,6.38 C12.88,6.76 12.1,7.22 11.36,7.74 L7.06,5.92 C6.14,5.52 5.06,5.88 4.56,6.76 L0.82,13.24 C0.32,14.12 0.54,15.22 1.34,15.84 L5.06,18.66 C5.02,19.1 5,19.54 5,20 C5,20.46 5.02,20.9 5.06,21.36 L1.34,24.18 C0.54,24.78 0.32,25.9 0.82,26.78 L4.56,33.24 C5.06,34.12 6.14,34.48 7.06,34.08 L11.36,32.26 C12.1,32.78 12.88,33.24 13.7,33.62 L14.28,38.24 C14.4,39.24 15.26,40 16.26,40 L23.72,40 C24.72,40 25.58,39.24 25.7,38.24 L26.28,33.62 C27.1,33.24 27.88,32.78 28.62,32.26 L32.92,34.08 C33.84,34.48 34.92,34.12 35.42,33.24 L39.16,26.78 C39.66,25.9 39.44,24.8 38.64,24.18 L34.92,21.36 C34.98,20.9 35,20.46 35,20 Z M20.08,27 C16.22,27 13.08,23.86 13.08,20 C13.08,16.14 16.22,13 20.08,13 C23.94,13 27.08,16.14 27.08,20 C27.08,23.86 23.94,27 20.08,27 Z" id="Shape"></path>
+        </g>
+        <g id="play_arrow_black_24dp" transform="translate(175.000000, 76.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M0,3.7941834 L0,34.5780375 C0,36.925455 2.58513061,38.3517339 4.57597831,37.0740257 L28.7632923,21.6820986 C30.6055692,20.523247 30.6055692,17.8489739 28.7632923,16.6604081 L4.57597831,1.29819523 C2.58513061,0.0204869974 0,1.44676595 0,3.7941834 Z" id="Path"></path>
+        </g>
+        <path d="M850.996155,111.959022 L881.066587,111.959022 C884.141518,111.959022 886.058358,108.624518 884.520893,105.968896 L869.485677,79.9917168 C867.948211,77.3360944 864.114531,77.3360944 862.577065,79.9917168 L847.541849,105.968896 C846.004384,108.624518 847.921224,111.959022 850.996155,111.959022 Z M866.031371,97.9820615 C864.933181,97.9820615 864.034662,97.0835426 864.034662,95.9853529 L864.034662,91.9919356 C864.034662,90.8937459 864.933181,89.995227 866.031371,89.995227 C867.129561,89.995227 868.02808,90.8937459 868.02808,91.9919356 L868.02808,95.9853529 C868.02808,97.0835426 867.129561,97.9820615 866.031371,97.9820615 Z M868.02808,105.968896 L864.034662,105.968896 L864.034662,101.975479 L868.02808,101.975479 L868.02808,105.968896 Z" id="Shape" fill="#0079FF" fill-rule="nonzero"></path>
+        <g id="build_black_24dp" transform="translate(621.000000, 76.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M19.9879077,3.43097961 C16.3650246,-0.19190356 10.9397119,-0.93089963 6.5778327,1.19596711 L13.1206516,7.73878597 C13.823599,8.44173345 13.823599,9.577264 13.1206516,10.2802115 L10.2547888,13.1460743 C9.55184128,13.8670461 8.41631073,13.8670461 7.71336325,13.1460743 L1.17054438,6.60325543 C-0.93829806,10.983159 -0.19930199,16.372423 3.42358118,19.9953062 C6.77609994,23.3478249 11.678708,24.2310153 15.84232,22.6629017 L30.1896584,37.0102401 C32.0461607,38.8667424 35.0381935,38.8667424 36.8766716,37.0102401 C38.7331739,35.1537377 38.7331739,32.1617049 36.8766716,30.3232268 L22.6014304,16.0299614 C24.2596655,11.8122765 23.3944994,6.83757125 19.9879077,3.43097961 Z" id="Path"></path>
+        </g>
+        <g id="description_white_24dp" transform="translate(59.000000, 74.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M21.841875,1.216875 C21.058125,0.433125 20.00625,0 18.913125,0 L4.125,0 C1.85625,0 0,1.85625 0,4.125 L0,37.125 C0,39.39375 1.835625,41.25 4.104375,41.25 L28.875,41.25 C31.14375,41.25 33,39.39375 33,37.125 L33,14.086875 C33,12.99375 32.566875,11.941875 31.783125,11.17875 L21.841875,1.216875 Z M22.6875,33 L10.3125,33 C9.178125,33 8.25,32.071875 8.25,30.9375 C8.25,29.803125 9.178125,28.875 10.3125,28.875 L22.6875,28.875 C23.821875,28.875 24.75,29.803125 24.75,30.9375 C24.75,32.071875 23.821875,33 22.6875,33 Z M22.6875,24.75 L10.3125,24.75 C9.178125,24.75 8.25,23.821875 8.25,22.6875 C8.25,21.553125 9.178125,20.625 10.3125,20.625 L22.6875,20.625 C23.821875,20.625 24.75,21.553125 24.75,22.6875 C24.75,23.821875 23.821875,24.75 22.6875,24.75 Z M18.5625,12.375 L18.5625,3.09375 L29.90625,14.4375 L20.625,14.4375 C19.490625,14.4375 18.5625,13.509375 18.5625,12.375 Z" id="Shape"></path>
+        </g>
+        <g id="people_black_24dp" transform="translate(733.000000, 82.000000)" fill="#DDDDDD" fill-rule="nonzero">
+            <path d="M28.6363636,11.4545455 C31.8054545,11.4545455 34.3445455,8.89636364 34.3445455,5.72727273 C34.3445455,2.55818182 31.8054545,0 28.6363636,0 C25.4672727,0 22.9090909,2.55818182 22.9090909,5.72727273 C22.9090909,8.89636364 25.4672727,11.4545455 28.6363636,11.4545455 Z M13.3636364,11.4545455 C16.5327273,11.4545455 19.0718182,8.89636364 19.0718182,5.72727273 C19.0718182,2.55818182 16.5327273,0 13.3636364,0 C10.1945455,0 7.63636364,2.55818182 7.63636364,5.72727273 C7.63636364,8.89636364 10.1945455,11.4545455 13.3636364,11.4545455 Z M13.3636364,15.2727273 C8.91545455,15.2727273 0,17.5063636 0,21.9545455 L0,24.8181818 C0,25.8681818 0.859090909,26.7272727 1.90909091,26.7272727 L24.8181818,26.7272727 C25.8681818,26.7272727 26.7272727,25.8681818 26.7272727,24.8181818 L26.7272727,21.9545455 C26.7272727,17.5063636 17.8118182,15.2727273 13.3636364,15.2727273 Z M28.6363636,15.2727273 C28.0827273,15.2727273 27.4527273,15.3109091 26.7845455,15.3681818 C26.8227273,15.3872727 26.8418182,15.4254545 26.8609091,15.4445455 C29.0372727,17.0290909 30.5454545,19.1481818 30.5454545,21.9545455 L30.5454545,24.8181818 C30.5454545,25.4863636 30.4118182,26.1354545 30.2018182,26.7272727 L40.0909091,26.7272727 C41.1409091,26.7272727 42,25.8681818 42,24.8181818 L42,21.9545455 C42,17.5063636 33.0845455,15.2727273 28.6363636,15.2727273 Z" id="Shape"></path>
+        </g>
+        <g id="Group-Copy-7" transform="translate(395.000000, 77.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="Group" mask="url(#mask-2)" fill="#DDDDDD" stroke="#181818">
+                <g transform="translate(-6.315789, -6.315789)">
+                    <rect id="Rectangle-1467-Copy-48" x="7.86842105" y="8.92105263" width="6.36842105" height="4.26315789"></rect>
+                    <rect id="Rectangle-1474-Copy-28" x="14.1842105" y="0.5" width="4.26315789" height="21.1052632"></rect>
+                    <rect id="Rectangle-1467-Copy-47" x="26.8157895" y="8.92105263" width="16.8947368" height="4.26315789"></rect>
+                    <rect id="Rectangle-1474-Copy-27" x="33.1315789" y="0.5" width="4.26315789" height="21.1052632"></rect>
+                    <rect id="Rectangle-1467-Copy-46" x="25.7631579" y="17.3421053" width="17.9473684" height="4.26315789"></rect>
+                    <rect id="Rectangle-1474-Copy-26" x="23.6578947" y="0.5" width="4.26315789" height="31.6315789"></rect>
+                    <rect id="Rectangle-1474-Copy-25" x="23.6578947" y="31.0263158" width="4.26315789" height="31.6315789"></rect>
+                    <rect id="Rectangle-1467-Copy-45" x="18.3947368" y="8.92105263" width="14.7894737" height="4.26315789"></rect>
+                    <rect id="Rectangle-1467-Copy-44" x="7.86842105" y="17.3421053" width="15.8421053" height="4.26315789"></rect>
+                    <rect id="Rectangle-1467-Copy-43" x="7.86842105" y="26.8157895" width="20.0526316" height="4.26315789"></rect>
+                    <rect id="Rectangle-1474-Copy-24" x="14.1842105" y="21.5526316" width="4.26315789" height="21.1052632"></rect>
+                    <rect id="Rectangle-1467-Copy-42" x="26.8157895" y="26.8157895" width="16.8947368" height="4.26315789"></rect>
+                    <rect id="Rectangle-1474-Copy-23" x="33.1315789" y="21.5526316" width="4.26315789" height="21.1052632"></rect>
+                    <rect id="Rectangle-1467-Copy-41" x="27.8684211" y="35.2368421" width="15.8421053" height="4.26315789"></rect>
+                    <rect id="Rectangle-1467-Copy-40" x="18.3947368" y="26.8157895" width="14.7894737" height="4.26315789"></rect>
+                    <rect id="Rectangle-1467-Copy-39" x="7.86842105" y="35.2368421" width="15.8421053" height="4.26315789"></rect>
+                    <rect id="Rectangle-1467-Copy-38" x="0.5" y="43.6578947" width="24.2631579" height="4.26315789"></rect>
+                    <rect id="Rectangle-1474-Copy-22" x="14.1842105" y="39.4473684" width="4.26315789" height="21.1052632"></rect>
+                    <rect id="Rectangle-1467-Copy-37" x="28.9210526" y="44.7105263" width="24.2631579" height="4.26315789"></rect>
+                    <rect id="Rectangle-1474-Copy-21" x="33.1315789" y="39.4473684" width="4.26315789" height="21.1052632"></rect>
+                    <rect id="Rectangle-1467-Copy-36" x="14.1842105" y="43.6578947" width="24.2631579" height="4.26315789"></rect>
+                </g>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#111111" x="30" y="151" width="892" height="34"></rect>
+        <text id="WARRANTY-ORDINARY" font-family="HelveticaNeue-Italic, Helvetica Neue" font-size="17" font-style="italic" font-weight="normal" letter-spacing="0.5" fill="#A0A0A0">
+            <tspan x="40" y="174">WARRANTY ORDINARY</tspan>
+        </text>
+        <rect id="Rectangle-1080-Copy-7" fill="#222222" x="31" y="248" width="878" height="38"></rect>
+        <text id="FILTER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="20" font-weight="400" letter-spacing="0.5" fill="#A0A0A0">
+            <tspan x="43" y="275">FILTER</tspan>
+        </text>
+        <text id="Types" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" letter-spacing="0.5" fill="#A0A0A0">
+            <tspan x="46" y="317">Types</tspan>
+        </text>
+        <rect id="Rectangle-1022-Copy-9" stroke="#FFFFFF" stroke-width="2" x="46" y="329" width="212" height="32" rx="4"></rect>
+        <text id="alarm" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" letter-spacing="0.444444444" fill="#FFFFFF">
+            <tspan x="54" y="351">alarm</tspan>
+        </text>
+        <text id="Components" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" letter-spacing="0.5" fill="#A0A0A0">
+            <tspan x="46" y="397">Components</tspan>
+        </text>
+        <rect id="Rectangle-1022-Copy-10" stroke="#FFFFFF" stroke-width="2" x="46" y="409" width="212" height="32" rx="4"></rect>
+        <text id="alarm-copy" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" letter-spacing="0.444444444" fill="#FFFFFF">
+            <tspan x="54" y="431">alarm</tspan>
+        </text>
+        <text id="From-date" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" letter-spacing="0.5" fill="#A0A0A0">
+            <tspan x="336" y="317">From date</tspan>
+        </text>
+        <rect id="Rectangle-1022-Copy-9" stroke="#FFFFFF" stroke-width="2" x="336" y="329" width="212" height="32" rx="4"></rect>
+        <text id="To-date" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" letter-spacing="0.5" fill="#A0A0A0">
+            <tspan x="336" y="397">To date</tspan>
+        </text>
+        <text id="04/03/2022" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" letter-spacing="0.444444444" fill="#FFFFFF">
+            <tspan x="344" y="431">04/03/2022</tspan>
+        </text>
+        <text id="03/03/2022-copy" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" letter-spacing="0.444444444" fill="#FFFFFF">
+            <tspan x="344" y="351">03/03/2022</tspan>
+        </text>
+        <rect id="Rectangle-1022-Copy-10" stroke="#FFFFFF" stroke-width="2" x="336" y="409" width="212" height="32" rx="4"></rect>
+        <g id="Group-5" transform="translate(622.000000, 331.000000)">
+            <text id="Today" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" letter-spacing="0.5" fill="#FFFFFF">
+                <tspan x="38" y="21">Today</tspan>
+            </text>
+            <circle id="Oval" stroke="#0079FF" stroke-width="2" fill="#0079FF" cx="14" cy="14" r="14"></circle>
+            <circle id="Oval-Copy" fill="#FFFFFF" cx="14" cy="14" r="6"></circle>
+        </g>
+        <g id="Group-2" transform="translate(622.000000, 411.000000)">
+            <text id="Range" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" letter-spacing="0.5" fill="#A0A0A0">
+                <tspan x="38" y="21">Range</tspan>
+            </text>
+            <circle id="Oval-Copy-5" stroke="#A0A0A0" stroke-width="2" cx="14" cy="14" r="14"></circle>
+        </g>
+        <text id="Type" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="18" font-weight="400" letter-spacing="0.45" fill="#A0A0A0">
+            <tspan x="40" y="530">Type</tspan>
+        </text>
+        <text id="Instant-start" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="18" font-weight="400" letter-spacing="0.45" fill="#A0A0A0">
+            <tspan x="126" y="530">Instant start</tspan>
+        </text>
+        <text id="Component" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="18" font-weight="400" letter-spacing="0.45" fill="#A0A0A0">
+            <tspan x="269" y="530">Component</tspan>
+        </text>
+        <text id="Description" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="18" font-weight="400" letter-spacing="0.45" fill="#A0A0A0">
+            <tspan x="409" y="530">Description</tspan>
+        </text>
+        <text id="User" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="18" font-weight="400" letter-spacing="0.45" fill="#A0A0A0">
+            <tspan x="618" y="531">User</tspan>
+        </text>
+        <text id="Exclusion" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="18" font-weight="400" letter-spacing="0.45" fill="#A0A0A0">
+            <tspan x="703" y="530">Exclusion</tspan>
+        </text>
+        <text id="Address" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="18" font-weight="400" letter-spacing="0.45" fill="#A0A0A0">
+            <tspan x="828" y="530">Address</tspan>
+        </text>
+        <line x1="33.5" y1="497.5" x2="909.5" y2="497.5" id="Line-3" stroke="#979797" stroke-linecap="square"></line>
+    </g>
+</svg>
